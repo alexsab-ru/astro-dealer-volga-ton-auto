@@ -1,0 +1,549 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <cars>
+    <car>
+      <unique_id>YML-18B5F45475C4396EB34E</unique_id>
+      <url>https://sale.volga-ton-auto.ru/cars/volga-k50-i-20-at-238-hp-4wd-gray-2026/</url>
+      <mark_id>Volga</mark_id>
+      <folder_id>K50</folder_id>
+      <year>2026</year>
+      <vin>YML-18B5F45475C4396EB34E</vin>
+      <price>5553130</price>
+      <sale_price>4751010</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>802120</max_benefit>
+      <color>серый</color>
+      <availability>В наличии</availability>
+      <run>0</run>
+      <description>Автомобиль Volga K50, 2.0 AT (238 л.с.) 4WD, 2026 г., серый</description>
+      <images>
+        <image>https://cdn.alexsab.ru/cars/sale.volga-ton-auto.ru/new/YML-18B5F45475C4396EB34E/0/full.webp?v=7dea0beb41f0</image>
+        <image>https://cdn.alexsab.ru/cars/sale.volga-ton-auto.ru/new/YML-18B5F45475C4396EB34E/1/full.webp?v=4e01902ae3fc</image>
+        <image>https://cdn.alexsab.ru/cars/sale.volga-ton-auto.ru/new/YML-18B5F45475C4396EB34E/2/full.webp?v=599c7362d6d1</image>
+        <image>https://cdn.alexsab.ru/cars/sale.volga-ton-auto.ru/new/YML-18B5F45475C4396EB34E/3/full.webp?v=6713286dd88f</image>
+        <image>https://cdn.alexsab.ru/cars/sale.volga-ton-auto.ru/new/YML-18B5F45475C4396EB34E/4/full.webp?v=1abb14fb0e4f</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>YML-27A59FC1BFCE086E088E</unique_id>
+      <url>https://sale.volga-ton-auto.ru/cars/volga-k50-i-20-at-238-hp-4wd-black-2026/</url>
+      <mark_id>Volga</mark_id>
+      <folder_id>K50</folder_id>
+      <year>2026</year>
+      <vin>YML-27A59FC1BFCE086E088E</vin>
+      <price>5356130</price>
+      <sale_price>4602510</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>753620</max_benefit>
+      <color>черный</color>
+      <availability>В наличии</availability>
+      <run>0</run>
+      <description>Автомобиль Volga K50, 2.0 AT (238 л.с.) 4WD, 2026 г., черный</description>
+      <images>
+        <image>https://cdn.alexsab.ru/cars/sale.volga-ton-auto.ru/new/YML-27A59FC1BFCE086E088E/0/full.webp?v=93a635d11257</image>
+        <image>https://cdn.alexsab.ru/cars/sale.volga-ton-auto.ru/new/YML-27A59FC1BFCE086E088E/1/full.webp?v=51f71a406e1d</image>
+        <image>https://cdn.alexsab.ru/cars/sale.volga-ton-auto.ru/new/YML-27A59FC1BFCE086E088E/2/full.webp?v=ca3abccbdfa1</image>
+        <image>https://cdn.alexsab.ru/cars/sale.volga-ton-auto.ru/new/YML-27A59FC1BFCE086E088E/3/full.webp?v=851e537084c3</image>
+        <image>https://cdn.alexsab.ru/cars/sale.volga-ton-auto.ru/new/YML-27A59FC1BFCE086E088E/4/full.webp?v=0f9903fef290</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>YML-491397DAB60825CBA058</unique_id>
+      <url>https://sale.volga-ton-auto.ru/cars/volga-k50-i-20-at-238-hp-4wd-gray-2026/</url>
+      <mark_id>Volga</mark_id>
+      <folder_id>K50</folder_id>
+      <year>2026</year>
+      <vin>YML-491397DAB60825CBA058</vin>
+      <price>5062130</price>
+      <sale_price>4305510</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>756620</max_benefit>
+      <color>серый</color>
+      <availability>В наличии</availability>
+      <run>0</run>
+      <description>Автомобиль Volga K50, 2.0 AT (238 л.с.) 4WD, 2026 г., серый</description>
+      <images>
+        <image>https://cdn.alexsab.ru/cars/sale.volga-ton-auto.ru/new/YML-491397DAB60825CBA058/0/full.webp?v=bfb6ea879fc7</image>
+        <image>https://cdn.alexsab.ru/cars/sale.volga-ton-auto.ru/new/YML-491397DAB60825CBA058/1/full.webp?v=cdc8ab0cebf7</image>
+        <image>https://cdn.alexsab.ru/cars/sale.volga-ton-auto.ru/new/YML-491397DAB60825CBA058/2/full.webp?v=a493afe2d61a</image>
+        <image>https://cdn.alexsab.ru/cars/sale.volga-ton-auto.ru/new/YML-491397DAB60825CBA058/3/full.webp?v=68af9decce3a</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>YML-491CAC7A05F4E72C3D97</unique_id>
+      <url>https://sale.volga-ton-auto.ru/cars/volga-k50-i-20-at-238-hp-4wd-silver-2026/</url>
+      <mark_id>Volga</mark_id>
+      <folder_id>K50</folder_id>
+      <year>2026</year>
+      <vin>YML-491CAC7A05F4E72C3D97</vin>
+      <price>5356130</price>
+      <sale_price>4602510</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>753620</max_benefit>
+      <color>серебряный</color>
+      <availability>В наличии</availability>
+      <run>0</run>
+      <description>Автомобиль Volga K50, 2.0 AT (238 л.с.) 4WD, 2026 г., серебряный</description>
+      <images>
+        <image>https://cdn.alexsab.ru/cars/sale.volga-ton-auto.ru/new/YML-491CAC7A05F4E72C3D97/0/full.webp?v=52d8bb93ac93</image>
+        <image>https://cdn.alexsab.ru/cars/sale.volga-ton-auto.ru/new/YML-491CAC7A05F4E72C3D97/1/full.webp?v=bf982ec7d5f5</image>
+        <image>https://cdn.alexsab.ru/cars/sale.volga-ton-auto.ru/new/YML-491CAC7A05F4E72C3D97/2/full.webp?v=78dea57dad37</image>
+        <image>https://cdn.alexsab.ru/cars/sale.volga-ton-auto.ru/new/YML-491CAC7A05F4E72C3D97/3/full.webp?v=16e1d8944499</image>
+        <image>https://cdn.alexsab.ru/cars/sale.volga-ton-auto.ru/new/YML-491CAC7A05F4E72C3D97/4/full.webp?v=804ac7a740ea</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>YML-4DF8BB8A464ABE26D486</unique_id>
+      <url>https://sale.volga-ton-auto.ru/cars/volga-k50-i-20-at-238-hp-4wd-silver-2026/</url>
+      <mark_id>Volga</mark_id>
+      <folder_id>K50</folder_id>
+      <year>2026</year>
+      <vin>YML-4DF8BB8A464ABE26D486</vin>
+      <price>5356130</price>
+      <sale_price>4602510</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>753620</max_benefit>
+      <color>серебряный</color>
+      <availability>В наличии</availability>
+      <run>0</run>
+      <description>Автомобиль Volga K50, 2.0 AT (238 л.с.) 4WD, 2026 г., серебряный</description>
+      <images>
+        <image>https://cdn.alexsab.ru/cars/sale.volga-ton-auto.ru/new/YML-4DF8BB8A464ABE26D486/0/full.webp?v=3a0a0eaf4c1f</image>
+        <image>https://cdn.alexsab.ru/cars/sale.volga-ton-auto.ru/new/YML-4DF8BB8A464ABE26D486/1/full.webp?v=52d8bb93ac93</image>
+        <image>https://cdn.alexsab.ru/cars/sale.volga-ton-auto.ru/new/YML-4DF8BB8A464ABE26D486/2/full.webp?v=bf982ec7d5f5</image>
+        <image>https://cdn.alexsab.ru/cars/sale.volga-ton-auto.ru/new/YML-4DF8BB8A464ABE26D486/3/full.webp?v=78dea57dad37</image>
+        <image>https://cdn.alexsab.ru/cars/sale.volga-ton-auto.ru/new/YML-4DF8BB8A464ABE26D486/4/full.webp?v=16e1d8944499</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>YML-58C748335037BF5C97E4</unique_id>
+      <url>https://sale.volga-ton-auto.ru/cars/volga-k50-i-20-at-238-hp-4wd-silver-2026/</url>
+      <mark_id>Volga</mark_id>
+      <folder_id>K50</folder_id>
+      <year>2026</year>
+      <vin>YML-58C748335037BF5C97E4</vin>
+      <price>5356130</price>
+      <sale_price>4602510</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>753620</max_benefit>
+      <color>серебряный</color>
+      <availability>В наличии</availability>
+      <run>0</run>
+      <description>Автомобиль Volga K50, 2.0 AT (238 л.с.) 4WD, 2026 г., серебряный</description>
+      <images>
+        <image>https://cdn.alexsab.ru/cars/sale.volga-ton-auto.ru/new/YML-58C748335037BF5C97E4/0/full.webp?v=3a0a0eaf4c1f</image>
+        <image>https://cdn.alexsab.ru/cars/sale.volga-ton-auto.ru/new/YML-58C748335037BF5C97E4/1/full.webp?v=52d8bb93ac93</image>
+        <image>https://cdn.alexsab.ru/cars/sale.volga-ton-auto.ru/new/YML-58C748335037BF5C97E4/2/full.webp?v=78dea57dad37</image>
+        <image>https://cdn.alexsab.ru/cars/sale.volga-ton-auto.ru/new/YML-58C748335037BF5C97E4/3/full.webp?v=804ac7a740ea</image>
+        <image>https://cdn.alexsab.ru/cars/sale.volga-ton-auto.ru/new/YML-58C748335037BF5C97E4/4/full.webp?v=62202c508196</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>YML-5CC70031C2E662970571</unique_id>
+      <url>https://sale.volga-ton-auto.ru/cars/volga-k50-i-20-at-238-hp-4wd-white-2026/</url>
+      <mark_id>Volga</mark_id>
+      <folder_id>K50</folder_id>
+      <year>2026</year>
+      <vin>YML-5CC70031C2E662970571</vin>
+      <price>5356130</price>
+      <sale_price>4602510</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>753620</max_benefit>
+      <color>белый</color>
+      <availability>В наличии</availability>
+      <run>0</run>
+      <description>Автомобиль Volga K50, 2.0 AT (238 л.с.) 4WD, 2026 г., белый</description>
+      <images>
+        <image>https://cdn.alexsab.ru/cars/sale.volga-ton-auto.ru/new/YML-5CC70031C2E662970571/0/full.webp?v=77ed4918293f</image>
+        <image>https://cdn.alexsab.ru/cars/sale.volga-ton-auto.ru/new/YML-5CC70031C2E662970571/1/full.webp?v=c139cec6212a</image>
+        <image>https://cdn.alexsab.ru/cars/sale.volga-ton-auto.ru/new/YML-5CC70031C2E662970571/2/full.webp?v=afeefd0b4e3e</image>
+        <image>https://cdn.alexsab.ru/cars/sale.volga-ton-auto.ru/new/YML-5CC70031C2E662970571/3/full.webp?v=abcec2bd8251</image>
+        <image>https://cdn.alexsab.ru/cars/sale.volga-ton-auto.ru/new/YML-5CC70031C2E662970571/4/full.webp?v=6a125317c5c4</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>YML-69FDEC238E70CFFA99F9</unique_id>
+      <url>https://sale.volga-ton-auto.ru/cars/volga-k50-i-20-at-238-hp-4wd-black-2026/</url>
+      <mark_id>Volga</mark_id>
+      <folder_id>K50</folder_id>
+      <year>2026</year>
+      <vin>YML-69FDEC238E70CFFA99F9</vin>
+      <price>5553130</price>
+      <sale_price>4751010</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>802120</max_benefit>
+      <color>черный</color>
+      <availability>В наличии</availability>
+      <run>0</run>
+      <description>Автомобиль Volga K50, 2.0 AT (238 л.с.) 4WD, 2026 г., черный</description>
+      <images>
+        <image>https://cdn.alexsab.ru/cars/sale.volga-ton-auto.ru/new/YML-69FDEC238E70CFFA99F9/0/full.webp?v=93a635d11257</image>
+        <image>https://cdn.alexsab.ru/cars/sale.volga-ton-auto.ru/new/YML-69FDEC238E70CFFA99F9/1/full.webp?v=51f71a406e1d</image>
+        <image>https://cdn.alexsab.ru/cars/sale.volga-ton-auto.ru/new/YML-69FDEC238E70CFFA99F9/2/full.webp?v=dd77ecf1db1e</image>
+        <image>https://cdn.alexsab.ru/cars/sale.volga-ton-auto.ru/new/YML-69FDEC238E70CFFA99F9/3/full.webp?v=18455481f9ec</image>
+        <image>https://cdn.alexsab.ru/cars/sale.volga-ton-auto.ru/new/YML-69FDEC238E70CFFA99F9/4/full.webp?v=ca3abccbdfa1</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>YML-730862C08EDDBB9E04B5</unique_id>
+      <url>https://sale.volga-ton-auto.ru/cars/volga-k50-i-20-at-238-hp-4wd-black-2026/</url>
+      <mark_id>Volga</mark_id>
+      <folder_id>K50</folder_id>
+      <year>2026</year>
+      <vin>YML-730862C08EDDBB9E04B5</vin>
+      <price>5356130</price>
+      <sale_price>4602510</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>753620</max_benefit>
+      <color>черный</color>
+      <availability>В наличии</availability>
+      <run>0</run>
+      <description>Автомобиль Volga K50, 2.0 AT (238 л.с.) 4WD, 2026 г., черный</description>
+      <images>
+        <image>https://cdn.alexsab.ru/cars/sale.volga-ton-auto.ru/new/YML-730862C08EDDBB9E04B5/0/full.webp?v=93a635d11257</image>
+        <image>https://cdn.alexsab.ru/cars/sale.volga-ton-auto.ru/new/YML-730862C08EDDBB9E04B5/1/full.webp?v=51f71a406e1d</image>
+        <image>https://cdn.alexsab.ru/cars/sale.volga-ton-auto.ru/new/YML-730862C08EDDBB9E04B5/2/full.webp?v=dd77ecf1db1e</image>
+        <image>https://cdn.alexsab.ru/cars/sale.volga-ton-auto.ru/new/YML-730862C08EDDBB9E04B5/3/full.webp?v=18455481f9ec</image>
+        <image>https://cdn.alexsab.ru/cars/sale.volga-ton-auto.ru/new/YML-730862C08EDDBB9E04B5/4/full.webp?v=ca3abccbdfa1</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>YML-7E10E221F3B551FF61BD</unique_id>
+      <url>https://sale.volga-ton-auto.ru/cars/volga-k50-i-20-at-238-hp-4wd-gray-2026/</url>
+      <mark_id>Volga</mark_id>
+      <folder_id>K50</folder_id>
+      <year>2026</year>
+      <vin>YML-7E10E221F3B551FF61BD</vin>
+      <price>5356130</price>
+      <sale_price>4602510</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>753620</max_benefit>
+      <color>серый</color>
+      <availability>В наличии</availability>
+      <run>0</run>
+      <description>Автомобиль Volga K50, 2.0 AT (238 л.с.) 4WD, 2026 г., серый</description>
+      <images>
+        <image>https://cdn.alexsab.ru/cars/sale.volga-ton-auto.ru/new/YML-7E10E221F3B551FF61BD/0/full.webp?v=bfb6ea879fc7</image>
+        <image>https://cdn.alexsab.ru/cars/sale.volga-ton-auto.ru/new/YML-7E10E221F3B551FF61BD/1/full.webp?v=cdc8ab0cebf7</image>
+        <image>https://cdn.alexsab.ru/cars/sale.volga-ton-auto.ru/new/YML-7E10E221F3B551FF61BD/2/full.webp?v=a493afe2d61a</image>
+        <image>https://cdn.alexsab.ru/cars/sale.volga-ton-auto.ru/new/YML-7E10E221F3B551FF61BD/3/full.webp?v=68af9decce3a</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>YML-7FFB61FF4ADB7709FE68</unique_id>
+      <url>https://sale.volga-ton-auto.ru/cars/volga-k50-i-20-at-238-hp-4wd-gray-2026/</url>
+      <mark_id>Volga</mark_id>
+      <folder_id>K50</folder_id>
+      <year>2026</year>
+      <vin>YML-7FFB61FF4ADB7709FE68</vin>
+      <price>5356130</price>
+      <sale_price>4602510</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>753620</max_benefit>
+      <color>серый</color>
+      <availability>В наличии</availability>
+      <run>0</run>
+      <description>Автомобиль Volga K50, 2.0 AT (238 л.с.) 4WD, 2026 г., серый</description>
+      <images>
+        <image>https://cdn.alexsab.ru/cars/sale.volga-ton-auto.ru/new/YML-7FFB61FF4ADB7709FE68/0/full.webp?v=bfb6ea879fc7</image>
+        <image>https://cdn.alexsab.ru/cars/sale.volga-ton-auto.ru/new/YML-7FFB61FF4ADB7709FE68/1/full.webp?v=cdc8ab0cebf7</image>
+        <image>https://cdn.alexsab.ru/cars/sale.volga-ton-auto.ru/new/YML-7FFB61FF4ADB7709FE68/2/full.webp?v=a493afe2d61a</image>
+        <image>https://cdn.alexsab.ru/cars/sale.volga-ton-auto.ru/new/YML-7FFB61FF4ADB7709FE68/3/full.webp?v=68af9decce3a</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>YML-8CC736FD68A6BA6A55A9</unique_id>
+      <url>https://sale.volga-ton-auto.ru/cars/volga-k50-i-20-at-238-hp-4wd-black-2026/</url>
+      <mark_id>Volga</mark_id>
+      <folder_id>K50</folder_id>
+      <year>2026</year>
+      <vin>YML-8CC736FD68A6BA6A55A9</vin>
+      <price>5356130</price>
+      <sale_price>4602510</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>753620</max_benefit>
+      <color>черный</color>
+      <availability>В наличии</availability>
+      <run>0</run>
+      <description>Автомобиль Volga K50, 2.0 AT (238 л.с.) 4WD, 2026 г., черный</description>
+      <images>
+        <image>https://cdn.alexsab.ru/cars/sale.volga-ton-auto.ru/new/YML-8CC736FD68A6BA6A55A9/0/full.webp?v=93a635d11257</image>
+        <image>https://cdn.alexsab.ru/cars/sale.volga-ton-auto.ru/new/YML-8CC736FD68A6BA6A55A9/1/full.webp?v=51f71a406e1d</image>
+        <image>https://cdn.alexsab.ru/cars/sale.volga-ton-auto.ru/new/YML-8CC736FD68A6BA6A55A9/2/full.webp?v=dd77ecf1db1e</image>
+        <image>https://cdn.alexsab.ru/cars/sale.volga-ton-auto.ru/new/YML-8CC736FD68A6BA6A55A9/3/full.webp?v=ca3abccbdfa1</image>
+        <image>https://cdn.alexsab.ru/cars/sale.volga-ton-auto.ru/new/YML-8CC736FD68A6BA6A55A9/4/full.webp?v=f6937f9e9edf</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>YML-904BEFEBFFD74109AFE1</unique_id>
+      <url>https://sale.volga-ton-auto.ru/cars/volga-k50-i-20-at-238-hp-4wd-black-2026/</url>
+      <mark_id>Volga</mark_id>
+      <folder_id>K50</folder_id>
+      <year>2026</year>
+      <vin>YML-904BEFEBFFD74109AFE1</vin>
+      <price>5356130</price>
+      <sale_price>4602510</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>753620</max_benefit>
+      <color>черный</color>
+      <availability>В наличии</availability>
+      <run>0</run>
+      <description>Автомобиль Volga K50, 2.0 AT (238 л.с.) 4WD, 2026 г., черный</description>
+      <images>
+        <image>https://cdn.alexsab.ru/cars/sale.volga-ton-auto.ru/new/YML-904BEFEBFFD74109AFE1/0/full.webp?v=dd77ecf1db1e</image>
+        <image>https://cdn.alexsab.ru/cars/sale.volga-ton-auto.ru/new/YML-904BEFEBFFD74109AFE1/1/full.webp?v=18455481f9ec</image>
+        <image>https://cdn.alexsab.ru/cars/sale.volga-ton-auto.ru/new/YML-904BEFEBFFD74109AFE1/2/full.webp?v=ca3abccbdfa1</image>
+        <image>https://cdn.alexsab.ru/cars/sale.volga-ton-auto.ru/new/YML-904BEFEBFFD74109AFE1/3/full.webp?v=f6937f9e9edf</image>
+        <image>https://cdn.alexsab.ru/cars/sale.volga-ton-auto.ru/new/YML-904BEFEBFFD74109AFE1/4/full.webp?v=3460ff3639b3</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>YML-A94C0997883005153DC3</unique_id>
+      <url>https://sale.volga-ton-auto.ru/cars/volga-k50-i-20-at-238-hp-4wd-silver-2026/</url>
+      <mark_id>Volga</mark_id>
+      <folder_id>K50</folder_id>
+      <year>2026</year>
+      <vin>YML-A94C0997883005153DC3</vin>
+      <price>5062130</price>
+      <sale_price>4305510</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>756620</max_benefit>
+      <color>серебряный</color>
+      <availability>В наличии</availability>
+      <run>0</run>
+      <description>Автомобиль Volga K50, 2.0 AT (238 л.с.) 4WD, 2026 г., серебряный</description>
+      <images>
+        <image>https://cdn.alexsab.ru/cars/sale.volga-ton-auto.ru/new/YML-A94C0997883005153DC3/0/full.webp?v=c843d016d45d</image>
+        <image>https://cdn.alexsab.ru/cars/sale.volga-ton-auto.ru/new/YML-A94C0997883005153DC3/1/full.webp?v=575ba851c986</image>
+        <image>https://cdn.alexsab.ru/cars/sale.volga-ton-auto.ru/new/YML-A94C0997883005153DC3/2/full.webp?v=c22b8b8c2dd1</image>
+        <image>https://cdn.alexsab.ru/cars/sale.volga-ton-auto.ru/new/YML-A94C0997883005153DC3/3/full.webp?v=1ae0b762317c</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>YML-C22DE80E1FBD463A2A77</unique_id>
+      <url>https://sale.volga-ton-auto.ru/cars/volga-k50-i-20-at-238-hp-4wd-gray-2026/</url>
+      <mark_id>Volga</mark_id>
+      <folder_id>K50</folder_id>
+      <year>2026</year>
+      <vin>YML-C22DE80E1FBD463A2A77</vin>
+      <price>5553130</price>
+      <sale_price>4751010</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>802120</max_benefit>
+      <color>серый</color>
+      <availability>В наличии</availability>
+      <run>0</run>
+      <description>Автомобиль Volga K50, 2.0 AT (238 л.с.) 4WD, 2026 г., серый</description>
+      <images>
+        <image>https://cdn.alexsab.ru/cars/sale.volga-ton-auto.ru/new/YML-C22DE80E1FBD463A2A77/0/full.webp?v=7dea0beb41f0</image>
+        <image>https://cdn.alexsab.ru/cars/sale.volga-ton-auto.ru/new/YML-C22DE80E1FBD463A2A77/1/full.webp?v=4e01902ae3fc</image>
+        <image>https://cdn.alexsab.ru/cars/sale.volga-ton-auto.ru/new/YML-C22DE80E1FBD463A2A77/2/full.webp?v=599c7362d6d1</image>
+        <image>https://cdn.alexsab.ru/cars/sale.volga-ton-auto.ru/new/YML-C22DE80E1FBD463A2A77/3/full.webp?v=6713286dd88f</image>
+        <image>https://cdn.alexsab.ru/cars/sale.volga-ton-auto.ru/new/YML-C22DE80E1FBD463A2A77/4/full.webp?v=1abb14fb0e4f</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>YML-C7F759561C9C19150B60</unique_id>
+      <url>https://sale.volga-ton-auto.ru/cars/volga-k50-i-20-at-238-hp-4wd-gray-2026/</url>
+      <mark_id>Volga</mark_id>
+      <folder_id>K50</folder_id>
+      <year>2026</year>
+      <vin>YML-C7F759561C9C19150B60</vin>
+      <price>5062130</price>
+      <sale_price>4305510</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>756620</max_benefit>
+      <color>серый</color>
+      <availability>В наличии</availability>
+      <run>0</run>
+      <description>Автомобиль Volga K50, 2.0 AT (238 л.с.) 4WD, 2026 г., серый</description>
+      <images>
+        <image>https://cdn.alexsab.ru/cars/sale.volga-ton-auto.ru/new/YML-C7F759561C9C19150B60/0/full.webp?v=bfb6ea879fc7</image>
+        <image>https://cdn.alexsab.ru/cars/sale.volga-ton-auto.ru/new/YML-C7F759561C9C19150B60/1/full.webp?v=cdc8ab0cebf7</image>
+        <image>https://cdn.alexsab.ru/cars/sale.volga-ton-auto.ru/new/YML-C7F759561C9C19150B60/2/full.webp?v=a493afe2d61a</image>
+        <image>https://cdn.alexsab.ru/cars/sale.volga-ton-auto.ru/new/YML-C7F759561C9C19150B60/3/full.webp?v=68af9decce3a</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>YML-CA510E0FEE2D80240CB1</unique_id>
+      <url>https://sale.volga-ton-auto.ru/cars/volga-k50-i-20-at-238-hp-4wd-gray-2026/</url>
+      <mark_id>Volga</mark_id>
+      <folder_id>K50</folder_id>
+      <year>2026</year>
+      <vin>YML-CA510E0FEE2D80240CB1</vin>
+      <price>5356130</price>
+      <sale_price>4602510</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>753620</max_benefit>
+      <color>серый</color>
+      <availability>В наличии</availability>
+      <run>0</run>
+      <description>Автомобиль Volga K50, 2.0 AT (238 л.с.) 4WD, 2026 г., серый</description>
+      <images>
+        <image>https://cdn.alexsab.ru/cars/sale.volga-ton-auto.ru/new/YML-CA510E0FEE2D80240CB1/0/full.webp?v=bfb6ea879fc7</image>
+        <image>https://cdn.alexsab.ru/cars/sale.volga-ton-auto.ru/new/YML-CA510E0FEE2D80240CB1/1/full.webp?v=cdc8ab0cebf7</image>
+        <image>https://cdn.alexsab.ru/cars/sale.volga-ton-auto.ru/new/YML-CA510E0FEE2D80240CB1/2/full.webp?v=a493afe2d61a</image>
+        <image>https://cdn.alexsab.ru/cars/sale.volga-ton-auto.ru/new/YML-CA510E0FEE2D80240CB1/3/full.webp?v=68af9decce3a</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>YML-D31C34EA0E24D6063830</unique_id>
+      <url>https://sale.volga-ton-auto.ru/cars/volga-k50-i-20-at-238-hp-4wd-gray-2026/</url>
+      <mark_id>Volga</mark_id>
+      <folder_id>K50</folder_id>
+      <year>2026</year>
+      <vin>YML-D31C34EA0E24D6063830</vin>
+      <price>5356130</price>
+      <sale_price>4602510</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>753620</max_benefit>
+      <color>серый</color>
+      <availability>В наличии</availability>
+      <run>0</run>
+      <description>Автомобиль Volga K50, 2.0 AT (238 л.с.) 4WD, 2026 г., серый</description>
+      <images>
+        <image>https://cdn.alexsab.ru/cars/sale.volga-ton-auto.ru/new/YML-D31C34EA0E24D6063830/0/full.webp?v=bfb6ea879fc7</image>
+        <image>https://cdn.alexsab.ru/cars/sale.volga-ton-auto.ru/new/YML-D31C34EA0E24D6063830/1/full.webp?v=cdc8ab0cebf7</image>
+        <image>https://cdn.alexsab.ru/cars/sale.volga-ton-auto.ru/new/YML-D31C34EA0E24D6063830/2/full.webp?v=a493afe2d61a</image>
+        <image>https://cdn.alexsab.ru/cars/sale.volga-ton-auto.ru/new/YML-D31C34EA0E24D6063830/3/full.webp?v=68af9decce3a</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>YML-DC771E37181EC65AF7E2</unique_id>
+      <url>https://sale.volga-ton-auto.ru/cars/volga-k50-i-20-at-238-hp-4wd-white-2026/</url>
+      <mark_id>Volga</mark_id>
+      <folder_id>K50</folder_id>
+      <year>2026</year>
+      <vin>YML-DC771E37181EC65AF7E2</vin>
+      <price>5356130</price>
+      <sale_price>4602510</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>753620</max_benefit>
+      <color>белый</color>
+      <availability>В наличии</availability>
+      <run>0</run>
+      <description>Автомобиль Volga K50, 2.0 AT (238 л.с.) 4WD, 2026 г., белый</description>
+      <images>
+        <image>https://cdn.alexsab.ru/cars/sale.volga-ton-auto.ru/new/YML-DC771E37181EC65AF7E2/0/full.webp?v=77ed4918293f</image>
+        <image>https://cdn.alexsab.ru/cars/sale.volga-ton-auto.ru/new/YML-DC771E37181EC65AF7E2/1/full.webp?v=c139cec6212a</image>
+        <image>https://cdn.alexsab.ru/cars/sale.volga-ton-auto.ru/new/YML-DC771E37181EC65AF7E2/2/full.webp?v=bcab4cebc0bd</image>
+        <image>https://cdn.alexsab.ru/cars/sale.volga-ton-auto.ru/new/YML-DC771E37181EC65AF7E2/3/full.webp?v=afeefd0b4e3e</image>
+        <image>https://cdn.alexsab.ru/cars/sale.volga-ton-auto.ru/new/YML-DC771E37181EC65AF7E2/4/full.webp?v=32625d77ee09</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>YML-EDA0323A7E2881DA63D9</unique_id>
+      <url>https://sale.volga-ton-auto.ru/cars/volga-k50-i-20-at-238-hp-4wd-green-2026/</url>
+      <mark_id>Volga</mark_id>
+      <folder_id>K50</folder_id>
+      <year>2026</year>
+      <vin>YML-EDA0323A7E2881DA63D9</vin>
+      <price>5553130</price>
+      <sale_price>4751010</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>802120</max_benefit>
+      <color>зеленый</color>
+      <availability>В наличии</availability>
+      <run>0</run>
+      <description>Автомобиль Volga K50, 2.0 AT (238 л.с.) 4WD, 2026 г., зеленый</description>
+      <images>
+        <image>https://cdn.alexsab.ru/cars/sale.volga-ton-auto.ru/new/YML-EDA0323A7E2881DA63D9/0/full.webp?v=b0756469d067</image>
+        <image>https://cdn.alexsab.ru/cars/sale.volga-ton-auto.ru/new/YML-EDA0323A7E2881DA63D9/1/full.webp?v=28cbfa3a1124</image>
+        <image>https://cdn.alexsab.ru/cars/sale.volga-ton-auto.ru/new/YML-EDA0323A7E2881DA63D9/2/full.webp?v=94825691dd76</image>
+        <image>https://cdn.alexsab.ru/cars/sale.volga-ton-auto.ru/new/YML-EDA0323A7E2881DA63D9/3/full.webp?v=f4608b6fa171</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>YML-EFF26A90D2E080AD77F3</unique_id>
+      <url>https://sale.volga-ton-auto.ru/cars/volga-k50-i-20-at-238-hp-4wd-white-2026/</url>
+      <mark_id>Volga</mark_id>
+      <folder_id>K50</folder_id>
+      <year>2026</year>
+      <vin>YML-EFF26A90D2E080AD77F3</vin>
+      <price>5356130</price>
+      <sale_price>4602510</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>753620</max_benefit>
+      <color>белый</color>
+      <availability>В наличии</availability>
+      <run>0</run>
+      <description>Автомобиль Volga K50, 2.0 AT (238 л.с.) 4WD, 2026 г., белый</description>
+      <images>
+        <image>https://cdn.alexsab.ru/cars/sale.volga-ton-auto.ru/new/YML-EFF26A90D2E080AD77F3/0/full.webp?v=77ed4918293f</image>
+        <image>https://cdn.alexsab.ru/cars/sale.volga-ton-auto.ru/new/YML-EFF26A90D2E080AD77F3/1/full.webp?v=c139cec6212a</image>
+        <image>https://cdn.alexsab.ru/cars/sale.volga-ton-auto.ru/new/YML-EFF26A90D2E080AD77F3/2/full.webp?v=bcab4cebc0bd</image>
+        <image>https://cdn.alexsab.ru/cars/sale.volga-ton-auto.ru/new/YML-EFF26A90D2E080AD77F3/3/full.webp?v=afeefd0b4e3e</image>
+        <image>https://cdn.alexsab.ru/cars/sale.volga-ton-auto.ru/new/YML-EFF26A90D2E080AD77F3/4/full.webp?v=32625d77ee09</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>YML-F2F12ED4107628D2C42E</unique_id>
+      <url>https://sale.volga-ton-auto.ru/cars/volga-k50-i-20-at-238-hp-4wd-silver-2026/</url>
+      <mark_id>Volga</mark_id>
+      <folder_id>K50</folder_id>
+      <year>2026</year>
+      <vin>YML-F2F12ED4107628D2C42E</vin>
+      <price>5356130</price>
+      <sale_price>4602510</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>753620</max_benefit>
+      <color>серебряный</color>
+      <availability>В наличии</availability>
+      <run>0</run>
+      <description>Автомобиль Volga K50, 2.0 AT (238 л.с.) 4WD, 2026 г., серебряный</description>
+      <images>
+        <image>https://cdn.alexsab.ru/cars/sale.volga-ton-auto.ru/new/YML-F2F12ED4107628D2C42E/0/full.webp?v=3a0a0eaf4c1f</image>
+        <image>https://cdn.alexsab.ru/cars/sale.volga-ton-auto.ru/new/YML-F2F12ED4107628D2C42E/1/full.webp?v=bf982ec7d5f5</image>
+        <image>https://cdn.alexsab.ru/cars/sale.volga-ton-auto.ru/new/YML-F2F12ED4107628D2C42E/2/full.webp?v=78dea57dad37</image>
+        <image>https://cdn.alexsab.ru/cars/sale.volga-ton-auto.ru/new/YML-F2F12ED4107628D2C42E/3/full.webp?v=16e1d8944499</image>
+        <image>https://cdn.alexsab.ru/cars/sale.volga-ton-auto.ru/new/YML-F2F12ED4107628D2C42E/4/full.webp?v=804ac7a740ea</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>YML-FEF95A3F852C0A2F5B8C</unique_id>
+      <url>https://sale.volga-ton-auto.ru/cars/volga-k50-i-20-at-238-hp-4wd-black-2026/</url>
+      <mark_id>Volga</mark_id>
+      <folder_id>K50</folder_id>
+      <year>2026</year>
+      <vin>YML-FEF95A3F852C0A2F5B8C</vin>
+      <price>5553130</price>
+      <sale_price>4751010</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>802120</max_benefit>
+      <color>черный</color>
+      <availability>В наличии</availability>
+      <run>0</run>
+      <description>Автомобиль Volga K50, 2.0 AT (238 л.с.) 4WD, 2026 г., черный</description>
+      <images>
+        <image>https://cdn.alexsab.ru/cars/sale.volga-ton-auto.ru/new/YML-FEF95A3F852C0A2F5B8C/0/full.webp?v=93a635d11257</image>
+        <image>https://cdn.alexsab.ru/cars/sale.volga-ton-auto.ru/new/YML-FEF95A3F852C0A2F5B8C/1/full.webp?v=51f71a406e1d</image>
+        <image>https://cdn.alexsab.ru/cars/sale.volga-ton-auto.ru/new/YML-FEF95A3F852C0A2F5B8C/2/full.webp?v=dd77ecf1db1e</image>
+        <image>https://cdn.alexsab.ru/cars/sale.volga-ton-auto.ru/new/YML-FEF95A3F852C0A2F5B8C/3/full.webp?v=18455481f9ec</image>
+        <image>https://cdn.alexsab.ru/cars/sale.volga-ton-auto.ru/new/YML-FEF95A3F852C0A2F5B8C/4/full.webp?v=ca3abccbdfa1</image>
+      </images>
+    </car>
+  </cars>
+</data>
