@@ -32,6 +32,8 @@
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4000612/11/full.webp?v=a7dcddb1a645</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4000612/12/full.webp?v=2b8309731c25</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4000612/13/full.webp?v=b4b7283a5d0a</image>
+        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4000612/14/full.webp?v=c12b3ec24268</image>
+        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4000612/15/full.webp?v=e717b8d71e10</image>
       </images>
     </car>
     <car>
@@ -88,6 +90,8 @@
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4001045/11/full.webp?v=8b5b87512b47</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4001045/12/full.webp?v=3c67310eb462</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4001045/13/full.webp?v=b4b7283a5d0a</image>
+        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4001045/14/full.webp?v=c12b3ec24268</image>
+        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4001045/15/full.webp?v=e717b8d71e10</image>
       </images>
     </car>
     <car>
@@ -107,20 +111,71 @@
       <body_type>Внедорожник</body_type>
       <description>Автомобиль Volga K50, Премиум, 2.0T 4WD AT (238 л.с.), 2026 г., серый</description>
       <images>
-        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4002220/0/full.webp?v=9afc74a2ec29</image>
-        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4002220/1/full.webp?v=29dd30ade9d2</image>
-        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4002220/2/full.webp?v=195c3ddaae27</image>
-        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4002220/3/full.webp?v=1092e3e3cdf5</image>
-        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4002220/4/full.webp?v=2b5bb015b80a</image>
-        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4002220/5/full.webp?v=03d55c69ecc5</image>
-        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4002220/6/full.webp?v=b10eb3e57031</image>
-        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4002220/7/full.webp?v=6977b2d1a1ac</image>
-        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4002220/8/full.webp?v=9e901d32ba59</image>
-        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4002220/9/full.webp?v=da8ed8681d8e</image>
-        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4002220/10/full.webp?v=ff2f8b1e7ad1</image>
-        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4002220/11/full.webp?v=b78786677304</image>
-        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4002220/12/full.webp?v=253484088456</image>
-        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4002220/13/full.webp?v=92148a27e118</image>
+        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4002220/0/full.webp?v=9fe42f86531c</image>
+        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4002220/1/full.webp?v=2477b0bebec1</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>ECPVDUA22T4003310</unique_id>
+      <url>https://sale.volga-ton-auto.ru/cars/volga-k50-20t-4wd-at-238-hp-premium-white-2026/</url>
+      <mark_id>Volga</mark_id>
+      <folder_id>K50</folder_id>
+      <year>2026</year>
+      <vin>ECPVDUA22T4003310</vin>
+      <price>4602510</price>
+      <sale_price>3848890</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>753620</max_benefit>
+      <color>белый</color>
+      <availability>В наличии</availability>
+      <body_type>Внедорожник</body_type>
+      <description>Автомобиль Volga K50, Премиум, 2.0T 4WD AT (238 л.с.), 2026 г., белый</description>
+      <images>
+        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4003310/0/full.webp?v=d2cd9c876532</image>
+        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4003310/1/full.webp?v=25d75b03d9c5</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>ECPVDUA22T4003575</unique_id>
+      <url>https://sale.volga-ton-auto.ru/cars/volga-k50-20t-4wd-at-238-hp-exclusive-green-2026/</url>
+      <mark_id>Volga</mark_id>
+      <folder_id>K50</folder_id>
+      <year>2026</year>
+      <vin>ECPVDUA22T4003575</vin>
+      <price>4751010</price>
+      <sale_price>3948890</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>802120</max_benefit>
+      <color>зеленый</color>
+      <availability>В наличии</availability>
+      <body_type>Внедорожник</body_type>
+      <description>Автомобиль Volga K50, Эксклюзив, 2.0T 4WD AT (238 л.с.), 2026 г., зеленый</description>
+      <images>
+        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4003575/0/full.webp?v=4652f8aa12d1</image>
+        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4003575/1/full.webp?v=9357b74e1a58</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>ECPVDUA22T4003589</unique_id>
+      <url>https://sale.volga-ton-auto.ru/cars/volga-k50-20t-4wd-at-238-hp-exclusive-green-2026/</url>
+      <mark_id>Volga</mark_id>
+      <folder_id>K50</folder_id>
+      <year>2026</year>
+      <vin>ECPVDUA22T4003589</vin>
+      <price>4751010</price>
+      <sale_price>3948890</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>802120</max_benefit>
+      <color>зеленый</color>
+      <availability>В наличии</availability>
+      <body_type>Внедорожник</body_type>
+      <description>Автомобиль Volga K50, Эксклюзив, 2.0T 4WD AT (238 л.с.), 2026 г., зеленый</description>
+      <images>
+        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4003589/0/full.webp?v=4652f8aa12d1</image>
+        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4003589/1/full.webp?v=9357b74e1a58</image>
       </images>
     </car>
     <car>
@@ -154,6 +209,8 @@
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4005114/11/full.webp?v=d88ddf52537b</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4005114/12/full.webp?v=2f1da7d7689b</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4005114/13/full.webp?v=b4b7283a5d0a</image>
+        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4005114/14/full.webp?v=c12b3ec24268</image>
+        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4005114/15/full.webp?v=e717b8d71e10</image>
       </images>
     </car>
     <car>
@@ -187,6 +244,8 @@
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4005247/11/full.webp?v=b78786677304</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4005247/12/full.webp?v=253484088456</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4005247/13/full.webp?v=92148a27e118</image>
+        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4005247/14/full.webp?v=1205d9b8cc21</image>
+        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4005247/15/full.webp?v=c9fd692a55c1</image>
       </images>
     </car>
     <car>
@@ -220,6 +279,8 @@
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4005252/11/full.webp?v=b78786677304</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4005252/12/full.webp?v=253484088456</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4005252/13/full.webp?v=92148a27e118</image>
+        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4005252/14/full.webp?v=1205d9b8cc21</image>
+        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4005252/15/full.webp?v=c9fd692a55c1</image>
       </images>
     </car>
     <car>
@@ -253,6 +314,8 @@
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4005295/11/full.webp?v=8b5b87512b47</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4005295/12/full.webp?v=3c67310eb462</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4005295/13/full.webp?v=b4b7283a5d0a</image>
+        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4005295/14/full.webp?v=c12b3ec24268</image>
+        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4005295/15/full.webp?v=e717b8d71e10</image>
       </images>
     </car>
     <car>
@@ -286,6 +349,8 @@
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4005387/11/full.webp?v=8b5b87512b47</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4005387/12/full.webp?v=3c67310eb462</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4005387/13/full.webp?v=b4b7283a5d0a</image>
+        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4005387/14/full.webp?v=c12b3ec24268</image>
+        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4005387/15/full.webp?v=e717b8d71e10</image>
       </images>
     </car>
     <car>
@@ -305,20 +370,8 @@
       <body_type>Внедорожник</body_type>
       <description>Автомобиль Volga K50, Премиум, 2.0T 4WD AT (238 л.с.), 2026 г., серый</description>
       <images>
-        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4005571/0/full.webp?v=9afc74a2ec29</image>
-        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4005571/1/full.webp?v=29dd30ade9d2</image>
-        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4005571/2/full.webp?v=195c3ddaae27</image>
-        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4005571/3/full.webp?v=1092e3e3cdf5</image>
-        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4005571/4/full.webp?v=2b5bb015b80a</image>
-        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4005571/5/full.webp?v=03d55c69ecc5</image>
-        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4005571/6/full.webp?v=b10eb3e57031</image>
-        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4005571/7/full.webp?v=6977b2d1a1ac</image>
-        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4005571/8/full.webp?v=9e901d32ba59</image>
-        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4005571/9/full.webp?v=da8ed8681d8e</image>
-        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4005571/10/full.webp?v=ff2f8b1e7ad1</image>
-        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4005571/11/full.webp?v=b78786677304</image>
-        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4005571/12/full.webp?v=253484088456</image>
-        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4005571/13/full.webp?v=92148a27e118</image>
+        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4005571/0/full.webp?v=9fe42f86531c</image>
+        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4005571/1/full.webp?v=54d1df1eeb36</image>
       </images>
     </car>
     <car>
@@ -338,20 +391,8 @@
       <body_type>Внедорожник</body_type>
       <description>Автомобиль Volga K50, Премиум, 2.0T 4WD AT (238 л.с.), 2026 г., серый</description>
       <images>
-        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4005702/0/full.webp?v=9afc74a2ec29</image>
-        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4005702/1/full.webp?v=29dd30ade9d2</image>
-        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4005702/2/full.webp?v=195c3ddaae27</image>
-        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4005702/3/full.webp?v=1092e3e3cdf5</image>
-        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4005702/4/full.webp?v=2b5bb015b80a</image>
-        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4005702/5/full.webp?v=03d55c69ecc5</image>
-        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4005702/6/full.webp?v=b10eb3e57031</image>
-        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4005702/7/full.webp?v=6977b2d1a1ac</image>
-        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4005702/8/full.webp?v=9e901d32ba59</image>
-        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4005702/9/full.webp?v=1b2eecbcbb61</image>
-        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4005702/10/full.webp?v=ff2f8b1e7ad1</image>
-        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4005702/11/full.webp?v=b78786677304</image>
-        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4005702/12/full.webp?v=253484088456</image>
-        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4005702/13/full.webp?v=92148a27e118</image>
+        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4005702/0/full.webp?v=b81f23a35e21</image>
+        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4005702/1/full.webp?v=57fadb3f1e58</image>
       </images>
     </car>
     <car>
@@ -385,6 +426,29 @@
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4005888/11/full.webp?v=a7dcddb1a645</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4005888/12/full.webp?v=2b8309731c25</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4005888/13/full.webp?v=b4b7283a5d0a</image>
+        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4005888/14/full.webp?v=c12b3ec24268</image>
+        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4005888/15/full.webp?v=e717b8d71e10</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>ECPVDUA22T4005902</unique_id>
+      <url>https://sale.volga-ton-auto.ru/cars/volga-k50-20t-4wd-at-238-hp-premium-silver-2026/</url>
+      <mark_id>Volga</mark_id>
+      <folder_id>K50</folder_id>
+      <year>2026</year>
+      <vin>ECPVDUA22T4005902</vin>
+      <price>4602510</price>
+      <sale_price>3848890</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>753620</max_benefit>
+      <color>серебряный</color>
+      <availability>В наличии</availability>
+      <body_type>Внедорожник</body_type>
+      <description>Автомобиль Volga K50, Премиум, 2.0T 4WD AT (238 л.с.), 2026 г., серебряный</description>
+      <images>
+        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4005902/0/full.webp?v=3024406cd1a1</image>
+        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4005902/1/full.webp?v=76c45f3b8dae</image>
       </images>
     </car>
     <car>
@@ -418,6 +482,29 @@
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4005953/11/full.webp?v=6300f0867ece</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4005953/12/full.webp?v=0d1e020eccf6</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4005953/13/full.webp?v=9f4221ad9e95</image>
+        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4005953/14/full.webp?v=1205d9b8cc21</image>
+        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4005953/15/full.webp?v=c9fd692a55c1</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>ECPVDUA22T4005977</unique_id>
+      <url>https://sale.volga-ton-auto.ru/cars/volga-k50-20t-4wd-at-238-hp-premium-gray-2026/</url>
+      <mark_id>Volga</mark_id>
+      <folder_id>K50</folder_id>
+      <year>2026</year>
+      <vin>ECPVDUA22T4005977</vin>
+      <price>4602510</price>
+      <sale_price>3848890</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>753620</max_benefit>
+      <color>серый</color>
+      <availability>В наличии</availability>
+      <body_type>Внедорожник</body_type>
+      <description>Автомобиль Volga K50, Премиум, 2.0T 4WD AT (238 л.с.), 2026 г., серый</description>
+      <images>
+        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4005977/0/full.webp?v=b81f23a35e21</image>
+        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4005977/1/full.webp?v=57fadb3f1e58</image>
       </images>
     </car>
     <car>
@@ -437,20 +524,8 @@
       <body_type>Внедорожник</body_type>
       <description>Автомобиль Volga K50, Премиум, 2.0T 4WD AT (238 л.с.), 2026 г., серый</description>
       <images>
-        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006001/0/full.webp?v=9afc74a2ec29</image>
-        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006001/1/full.webp?v=29dd30ade9d2</image>
-        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006001/2/full.webp?v=195c3ddaae27</image>
-        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006001/3/full.webp?v=1092e3e3cdf5</image>
-        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006001/4/full.webp?v=2b5bb015b80a</image>
-        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006001/5/full.webp?v=03d55c69ecc5</image>
-        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006001/6/full.webp?v=b10eb3e57031</image>
-        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006001/7/full.webp?v=c6a3228f4a93</image>
-        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006001/8/full.webp?v=9e901d32ba59</image>
-        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006001/9/full.webp?v=da8ed8681d8e</image>
-        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006001/10/full.webp?v=ff2f8b1e7ad1</image>
-        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006001/11/full.webp?v=b78786677304</image>
-        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006001/12/full.webp?v=253484088456</image>
-        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006001/13/full.webp?v=92148a27e118</image>
+        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006001/0/full.webp?v=57fadb3f1e58</image>
+        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006001/1/full.webp?v=54657e1fa6c2</image>
       </images>
     </car>
     <car>
@@ -484,6 +559,8 @@
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006102/11/full.webp?v=88eef3ffe613</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006102/12/full.webp?v=2f1da7d7689b</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006102/13/full.webp?v=b4b7283a5d0a</image>
+        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006102/14/full.webp?v=4ccdb29c8fac</image>
+        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006102/15/full.webp?v=36213ad8b695</image>
       </images>
     </car>
     <car>
@@ -517,6 +594,8 @@
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006115/11/full.webp?v=8a021bb242e8</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006115/12/full.webp?v=1f2a388b2e4a</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006115/13/full.webp?v=b4b7283a5d0a</image>
+        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006115/14/full.webp?v=4ccdb29c8fac</image>
+        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006115/15/full.webp?v=36213ad8b695</image>
       </images>
     </car>
     <car>
@@ -550,6 +629,8 @@
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006154/11/full.webp?v=8a021bb242e8</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006154/12/full.webp?v=1f2a388b2e4a</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006154/13/full.webp?v=b4b7283a5d0a</image>
+        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006154/14/full.webp?v=4ccdb29c8fac</image>
+        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006154/15/full.webp?v=36213ad8b695</image>
       </images>
     </car>
     <car>
@@ -583,6 +664,50 @@
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006327/11/full.webp?v=d88ddf52537b</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006327/12/full.webp?v=2f1da7d7689b</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006327/13/full.webp?v=b4b7283a5d0a</image>
+        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006327/14/full.webp?v=c12b3ec24268</image>
+        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006327/15/full.webp?v=e717b8d71e10</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>ECPVDUA22T4006332</unique_id>
+      <url>https://sale.volga-ton-auto.ru/cars/volga-k50-20t-4wd-at-238-hp-premium-black-2026/</url>
+      <mark_id>Volga</mark_id>
+      <folder_id>K50</folder_id>
+      <year>2026</year>
+      <vin>ECPVDUA22T4006332</vin>
+      <price>4602510</price>
+      <sale_price>3848890</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>753620</max_benefit>
+      <color>черный</color>
+      <availability>В наличии</availability>
+      <body_type>Внедорожник</body_type>
+      <description>Автомобиль Volga K50, Премиум, 2.0T 4WD AT (238 л.с.), 2026 г., черный</description>
+      <images>
+        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006332/0/full.webp?v=9fab7730e9b2</image>
+        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006332/1/full.webp?v=458c66fce393</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>ECPVDUA22T4006336</unique_id>
+      <url>https://sale.volga-ton-auto.ru/cars/volga-k50-20t-4wd-at-238-hp-premium-silver-2026/</url>
+      <mark_id>Volga</mark_id>
+      <folder_id>K50</folder_id>
+      <year>2026</year>
+      <vin>ECPVDUA22T4006336</vin>
+      <price>4602510</price>
+      <sale_price>3848890</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>753620</max_benefit>
+      <color>серебряный</color>
+      <availability>В наличии</availability>
+      <body_type>Внедорожник</body_type>
+      <description>Автомобиль Volga K50, Премиум, 2.0T 4WD AT (238 л.с.), 2026 г., серебряный</description>
+      <images>
+        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006336/0/full.webp?v=c6fdc8c32949</image>
+        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006336/1/full.webp?v=3024406cd1a1</image>
       </images>
     </car>
     <car>
@@ -616,6 +741,8 @@
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006367/11/full.webp?v=8b5b87512b47</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006367/12/full.webp?v=3c67310eb462</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006367/13/full.webp?v=b4b7283a5d0a</image>
+        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006367/14/full.webp?v=c12b3ec24268</image>
+        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006367/15/full.webp?v=e717b8d71e10</image>
       </images>
     </car>
     <car>
@@ -649,6 +776,8 @@
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006432/11/full.webp?v=d88ddf52537b</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006432/12/full.webp?v=2f1da7d7689b</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006432/13/full.webp?v=b4b7283a5d0a</image>
+        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006432/14/full.webp?v=c12b3ec24268</image>
+        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006432/15/full.webp?v=e717b8d71e10</image>
       </images>
     </car>
     <car>
@@ -682,6 +811,8 @@
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006458/11/full.webp?v=d88ddf52537b</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006458/12/full.webp?v=2f1da7d7689b</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006458/13/full.webp?v=b4b7283a5d0a</image>
+        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006458/14/full.webp?v=c12b3ec24268</image>
+        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006458/15/full.webp?v=e717b8d71e10</image>
       </images>
     </car>
     <car>
@@ -715,6 +846,8 @@
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006562/11/full.webp?v=a7dcddb1a645</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006562/12/full.webp?v=2b8309731c25</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006562/13/full.webp?v=b4b7283a5d0a</image>
+        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006562/14/full.webp?v=c12b3ec24268</image>
+        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006562/15/full.webp?v=e717b8d71e10</image>
       </images>
     </car>
     <car>
@@ -748,6 +881,8 @@
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006594/11/full.webp?v=88eef3ffe613</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006594/12/full.webp?v=2f1da7d7689b</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006594/13/full.webp?v=b4b7283a5d0a</image>
+        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006594/14/full.webp?v=4ccdb29c8fac</image>
+        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006594/15/full.webp?v=36213ad8b695</image>
       </images>
     </car>
   </cars>

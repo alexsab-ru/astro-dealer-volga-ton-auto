@@ -80,7 +80,7 @@
     <model>K50</model>
     <year>2026</year>
     <title>Volga K50 Премиум 2026</title>
-    <image_link>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4002220/0/full.webp?v=9afc74a2ec29</image_link>
+    <image_link>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4002220/0/full.webp?v=9fe42f86531c</image_link>
     <price>4602510 RUB</price>
     <sale_price>3848890 RUB</sale_price>
     <min_price>3848890 RUB</min_price>
@@ -94,6 +94,78 @@
     </mileage>
     <body_style>suv</body_style>
     <vin>ECPVDUA22T4002220</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>ECPVDUA22T4003310</id>
+    <link>https://sale.volga-ton-auto.ru/cars/volga-k50-20t-4wd-at-238-hp-premium-white-2026/</link>
+    <brand>Volga</brand>
+    <model>K50</model>
+    <year>2026</year>
+    <title>Volga K50 Премиум 2026</title>
+    <image_link>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4003310/0/full.webp?v=d2cd9c876532</image_link>
+    <price>4602510 RUB</price>
+    <sale_price>3848890 RUB</sale_price>
+    <min_price>3848890 RUB</min_price>
+    <max_price>4602510 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Volga K50, Премиум, 2.0T 4WD AT (238 л.с.), 2026 г.</description>
+    <exterior_color>Белый</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>suv</body_style>
+    <vin>ECPVDUA22T4003310</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>ECPVDUA22T4003575</id>
+    <link>https://sale.volga-ton-auto.ru/cars/volga-k50-20t-4wd-at-238-hp-exclusive-green-2026/</link>
+    <brand>Volga</brand>
+    <model>K50</model>
+    <year>2026</year>
+    <title>Volga K50 Эксклюзив 2026</title>
+    <image_link>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4003575/0/full.webp?v=4652f8aa12d1</image_link>
+    <price>4751010 RUB</price>
+    <sale_price>3948890 RUB</sale_price>
+    <min_price>3948890 RUB</min_price>
+    <max_price>4751010 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Volga K50, Эксклюзив, 2.0T 4WD AT (238 л.с.), 2026 г.</description>
+    <exterior_color>Зелёный</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>suv</body_style>
+    <vin>ECPVDUA22T4003575</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>ECPVDUA22T4003589</id>
+    <link>https://sale.volga-ton-auto.ru/cars/volga-k50-20t-4wd-at-238-hp-exclusive-green-2026/</link>
+    <brand>Volga</brand>
+    <model>K50</model>
+    <year>2026</year>
+    <title>Volga K50 Эксклюзив 2026</title>
+    <image_link>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4003589/0/full.webp?v=4652f8aa12d1</image_link>
+    <price>4751010 RUB</price>
+    <sale_price>3948890 RUB</sale_price>
+    <min_price>3948890 RUB</min_price>
+    <max_price>4751010 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Volga K50, Эксклюзив, 2.0T 4WD AT (238 л.с.), 2026 г.</description>
+    <exterior_color>Зелёный</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>suv</body_style>
+    <vin>ECPVDUA22T4003589</vin>
     <availability>в наличии</availability>
     <vehicle_type>car_truck</vehicle_type>
   </item>
@@ -224,7 +296,7 @@
     <model>K50</model>
     <year>2026</year>
     <title>Volga K50 Премиум 2026</title>
-    <image_link>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4005571/0/full.webp?v=9afc74a2ec29</image_link>
+    <image_link>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4005571/0/full.webp?v=9fe42f86531c</image_link>
     <price>4602510 RUB</price>
     <sale_price>3848890 RUB</sale_price>
     <min_price>3848890 RUB</min_price>
@@ -248,7 +320,7 @@
     <model>K50</model>
     <year>2026</year>
     <title>Volga K50 Премиум 2026</title>
-    <image_link>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4005702/0/full.webp?v=9afc74a2ec29</image_link>
+    <image_link>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4005702/0/full.webp?v=b81f23a35e21</image_link>
     <price>4602510 RUB</price>
     <sale_price>3848890 RUB</sale_price>
     <min_price>3848890 RUB</min_price>
@@ -290,6 +362,30 @@
     <vehicle_type>car_truck</vehicle_type>
   </item>
   <item>
+    <id>ECPVDUA22T4005902</id>
+    <link>https://sale.volga-ton-auto.ru/cars/volga-k50-20t-4wd-at-238-hp-premium-silver-2026/</link>
+    <brand>Volga</brand>
+    <model>K50</model>
+    <year>2026</year>
+    <title>Volga K50 Премиум 2026</title>
+    <image_link>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4005902/0/full.webp?v=3024406cd1a1</image_link>
+    <price>4602510 RUB</price>
+    <sale_price>3848890 RUB</sale_price>
+    <min_price>3848890 RUB</min_price>
+    <max_price>4602510 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Volga K50, Премиум, 2.0T 4WD AT (238 л.с.), 2026 г.</description>
+    <exterior_color>Серебряный</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>suv</body_style>
+    <vin>ECPVDUA22T4005902</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
     <id>ECPVDUA22T4005953</id>
     <link>https://sale.volga-ton-auto.ru/cars/volga-k50-20t-4wd-at-238-hp-comfort-silver-2026/</link>
     <brand>Volga</brand>
@@ -314,13 +410,37 @@
     <vehicle_type>car_truck</vehicle_type>
   </item>
   <item>
+    <id>ECPVDUA22T4005977</id>
+    <link>https://sale.volga-ton-auto.ru/cars/volga-k50-20t-4wd-at-238-hp-premium-gray-2026/</link>
+    <brand>Volga</brand>
+    <model>K50</model>
+    <year>2026</year>
+    <title>Volga K50 Премиум 2026</title>
+    <image_link>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4005977/0/full.webp?v=b81f23a35e21</image_link>
+    <price>4602510 RUB</price>
+    <sale_price>3848890 RUB</sale_price>
+    <min_price>3848890 RUB</min_price>
+    <max_price>4602510 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Volga K50, Премиум, 2.0T 4WD AT (238 л.с.), 2026 г.</description>
+    <exterior_color>Серый</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>suv</body_style>
+    <vin>ECPVDUA22T4005977</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
     <id>ECPVDUA22T4006001</id>
     <link>https://sale.volga-ton-auto.ru/cars/volga-k50-20t-4wd-at-238-hp-premium-gray-2026/</link>
     <brand>Volga</brand>
     <model>K50</model>
     <year>2026</year>
     <title>Volga K50 Премиум 2026</title>
-    <image_link>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006001/0/full.webp?v=9afc74a2ec29</image_link>
+    <image_link>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006001/0/full.webp?v=57fadb3f1e58</image_link>
     <price>4602510 RUB</price>
     <sale_price>3848890 RUB</sale_price>
     <min_price>3848890 RUB</min_price>
@@ -430,6 +550,54 @@
     </mileage>
     <body_style>suv</body_style>
     <vin>ECPVDUA22T4006327</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>ECPVDUA22T4006332</id>
+    <link>https://sale.volga-ton-auto.ru/cars/volga-k50-20t-4wd-at-238-hp-premium-black-2026/</link>
+    <brand>Volga</brand>
+    <model>K50</model>
+    <year>2026</year>
+    <title>Volga K50 Премиум 2026</title>
+    <image_link>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006332/0/full.webp?v=9fab7730e9b2</image_link>
+    <price>4602510 RUB</price>
+    <sale_price>3848890 RUB</sale_price>
+    <min_price>3848890 RUB</min_price>
+    <max_price>4602510 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Volga K50, Премиум, 2.0T 4WD AT (238 л.с.), 2026 г.</description>
+    <exterior_color>Чёрный</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>suv</body_style>
+    <vin>ECPVDUA22T4006332</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>ECPVDUA22T4006336</id>
+    <link>https://sale.volga-ton-auto.ru/cars/volga-k50-20t-4wd-at-238-hp-premium-silver-2026/</link>
+    <brand>Volga</brand>
+    <model>K50</model>
+    <year>2026</year>
+    <title>Volga K50 Премиум 2026</title>
+    <image_link>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006336/0/full.webp?v=c6fdc8c32949</image_link>
+    <price>4602510 RUB</price>
+    <sale_price>3848890 RUB</sale_price>
+    <min_price>3848890 RUB</min_price>
+    <max_price>4602510 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Volga K50, Премиум, 2.0T 4WD AT (238 л.с.), 2026 г.</description>
+    <exterior_color>Серебряный</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>suv</body_style>
+    <vin>ECPVDUA22T4006336</vin>
     <availability>в наличии</availability>
     <vehicle_type>car_truck</vehicle_type>
   </item>
