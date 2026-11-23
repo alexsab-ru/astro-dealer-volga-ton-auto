@@ -9,20 +9,20 @@
       <year>2026</year>
       <vin>ECPVCUA22T3008578</vin>
       <price>3919410</price>
-      <sale_price>3769410</sale_price>
+      <sale_price>3394410</sale_price>
       <currency>RUR</currency>
       <owners_number>Не было владельцев</owners_number>
-      <max_benefit>150000</max_benefit>
+      <max_benefit>525000</max_benefit>
       <color>зеленый</color>
       <availability>В наличии</availability>
       <body_type>Внедорожник</body_type>
       <description>Автомобиль Volga K40, Премиум, 2.0T 4WD AT (200 л.с.), 2026 г., зеленый</description>
       <images>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVCUA22T3008578/0/full.webp?v=5b23e464c7bf</image>
-        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVCUA22T3008578/1/full.webp?v=cb611a2e267d</image>
+        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVCUA22T3008578/1/full.webp?v=00fbb334048a</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVCUA22T3008578/2/full.webp?v=83e784e4e5d0</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVCUA22T3008578/3/full.webp?v=77225385d742</image>
-        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVCUA22T3008578/4/full.webp?v=0e9a52f07ca8</image>
+        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVCUA22T3008578/4/full.webp?v=c0710fe253b3</image>
       </images>
     </car>
     <car>
@@ -33,10 +33,10 @@
       <year>2026</year>
       <vin>ECPVCUA22T3008719</vin>
       <price>3622410</price>
-      <sale_price>3472410</sale_price>
+      <sale_price>3097410</sale_price>
       <currency>RUR</currency>
       <owners_number>Не было владельцев</owners_number>
-      <max_benefit>150000</max_benefit>
+      <max_benefit>525000</max_benefit>
       <color>белый</color>
       <availability>В наличии</availability>
       <body_type>Внедорожник</body_type>
@@ -46,7 +46,7 @@
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVCUA22T3008719/1/full.webp?v=f84604943135</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVCUA22T3008719/2/full.webp?v=0281fdf92525</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVCUA22T3008719/3/full.webp?v=eb0d887036a1</image>
-        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVCUA22T3008719/4/full.webp?v=4cc1107d6166</image>
+        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVCUA22T3008719/4/full.webp?v=e67ac5b66b2a</image>
       </images>
     </car>
     <car>
@@ -57,10 +57,10 @@
       <year>2026</year>
       <vin>ECPVCUF32T1008530</vin>
       <price>2879910</price>
-      <sale_price>2729910</sale_price>
+      <sale_price>2354910</sale_price>
       <currency>RUR</currency>
       <owners_number>Не было владельцев</owners_number>
-      <max_benefit>150000</max_benefit>
+      <max_benefit>525000</max_benefit>
       <color>черный</color>
       <availability>В наличии</availability>
       <body_type>Внедорожник</body_type>
@@ -70,7 +70,7 @@
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVCUF32T1008530/1/full.webp?v=eb4c0da5e58b</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVCUF32T1008530/2/full.webp?v=5bcf4b4fc748</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVCUF32T1008530/3/full.webp?v=bc5e52cf86a1</image>
-        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVCUF32T1008530/4/full.webp?v=25259c8cdb3a</image>
+        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVCUF32T1008530/4/full.webp?v=2801c107d6d6</image>
       </images>
     </car>
     <car>
@@ -81,10 +81,10 @@
       <year>2026</year>
       <vin>ECPVDUA22T4000612</vin>
       <price>4602510</price>
-      <sale_price>3848890</sale_price>
+      <sale_price>3677510</sale_price>
       <currency>RUR</currency>
       <owners_number>Не было владельцев</owners_number>
-      <max_benefit>753620</max_benefit>
+      <max_benefit>925000</max_benefit>
       <color>белый</color>
       <availability>В наличии</availability>
       <body_type>Внедорожник</body_type>
@@ -103,7 +103,7 @@
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4000612/10/full.webp?v=adb138bd793d</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4000612/11/full.webp?v=a7dcddb1a645</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4000612/12/full.webp?v=2b8309731c25</image>
-        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4000612/13/full.webp?v=b4b7283a5d0a</image>
+        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4000612/13/full.webp?v=14f7b5dd64b7</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4000612/14/full.webp?v=c12b3ec24268</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4000612/15/full.webp?v=e717b8d71e10</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4000612/16/full.webp?v=4482b4b14857</image>
@@ -140,10 +140,10 @@
       <year>2026</year>
       <vin>ECPVDUA22T4001035</vin>
       <price>4751010</price>
-      <sale_price>3948890</sale_price>
+      <sale_price>3826010</sale_price>
       <currency>RUR</currency>
       <owners_number>Не было владельцев</owners_number>
-      <max_benefit>802120</max_benefit>
+      <max_benefit>925000</max_benefit>
       <color>зеленый</color>
       <availability>В наличии</availability>
       <body_type>Внедорожник</body_type>
@@ -199,10 +199,10 @@
       <year>2026</year>
       <vin>ECPVDUA22T4001045</vin>
       <price>4602510</price>
-      <sale_price>3848890</sale_price>
+      <sale_price>3677510</sale_price>
       <currency>RUR</currency>
       <owners_number>Не было владельцев</owners_number>
-      <max_benefit>753620</max_benefit>
+      <max_benefit>925000</max_benefit>
       <color>серебряный</color>
       <availability>В наличии</availability>
       <body_type>Внедорожник</body_type>
@@ -225,7 +225,7 @@
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4001045/14/full.webp?v=c12b3ec24268</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4001045/15/full.webp?v=e717b8d71e10</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4001045/16/full.webp?v=4482b4b14857</image>
-        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4001045/17/full.webp?v=a7bbf3f865ea</image>
+        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4001045/17/full.webp?v=1a432d9b5ce7</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4001045/18/full.webp?v=761229d48414</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4001045/19/full.webp?v=9cfae2ea8f04</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4001045/20/full.webp?v=76dfde3916c8</image>
@@ -245,8 +245,7 @@
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4001045/34/full.webp?v=0d2e55483e10</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4001045/35/full.webp?v=4ea8e631e28e</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4001045/36/full.webp?v=e96362309c03</image>
-        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4001045/37/full.webp?v=c781b09dd3a5</image>
-        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4001045/38/full.webp?v=4aea013223d6</image>
+        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4001045/37/full.webp?v=afd447cb45e0</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4001045/39/full.webp?v=197ec44ec36a</image>
       </images>
     </car>
@@ -258,22 +257,22 @@
       <year>2026</year>
       <vin>ECPVDUA22T4002220</vin>
       <price>4602510</price>
-      <sale_price>3848890</sale_price>
+      <sale_price>3677510</sale_price>
       <currency>RUR</currency>
       <owners_number>Не было владельцев</owners_number>
-      <max_benefit>753620</max_benefit>
+      <max_benefit>925000</max_benefit>
       <color>серый</color>
       <availability>В наличии</availability>
       <body_type>Внедорожник</body_type>
       <description>Автомобиль Volga K50, Премиум, 2.0T 4WD AT (238 л.с.), 2026 г., серый</description>
       <images>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4002220/0/full.webp?v=9fe42f86531c</image>
-        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4002220/1/full.webp?v=54d1df1eeb36</image>
+        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4002220/1/full.webp?v=7db115a26cd6</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4002220/1/full.webp?v=2477b0bebec1</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4002220/3/full.webp?v=54657e1fa6c2</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4002220/2/full.webp?v=61663d32b94a</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4002220/3/full.webp?v=18adf8732419</image>
-        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4002220/6/full.webp?v=565927cf015d</image>
+        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4002220/6/full.webp?v=6a86fd8df085</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4002220/7/full.webp?v=9cfae2ea8f04</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4002220/8/full.webp?v=8f483c5e5e42</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4002220/9/full.webp?v=a7bbf3f865ea</image>
@@ -317,28 +316,21 @@
       <year>2026</year>
       <vin>ECPVDUA22T4003310</vin>
       <price>4602510</price>
-      <sale_price>3848890</sale_price>
+      <sale_price>3677510</sale_price>
       <currency>RUR</currency>
       <owners_number>Не было владельцев</owners_number>
-      <max_benefit>753620</max_benefit>
+      <max_benefit>925000</max_benefit>
       <color>белый</color>
       <availability>В наличии</availability>
       <body_type>Внедорожник</body_type>
       <description>Автомобиль Volga K50, Премиум, 2.0T 4WD AT (238 л.с.), 2026 г., белый</description>
       <images>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4003310/0/full.webp?v=d2cd9c876532</image>
-        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4003310/1/full.webp?v=25d75b03d9c5</image>
-        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4003310/2/full.webp?v=ac7cc4bc7ddf</image>
-        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4003310/3/full.webp?v=dd9d4f7b5e1b</image>
-        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4003310/4/full.webp?v=a7dcddb1a645</image>
-        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4003310/5/full.webp?v=b4b7283a5d0a</image>
-        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4003310/6/full.webp?v=2b8309731c25</image>
+        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4003310/1/full.webp?v=db8da397714a</image>
+        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4003310/2/full.webp?v=b11ea1384fe5</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4003310/7/full.webp?v=9cfae2ea8f04</image>
-        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4003310/8/full.webp?v=f81efb146902</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4003310/9/full.webp?v=a7bbf3f865ea</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4003310/10/full.webp?v=c12b3ec24268</image>
-        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4003310/11/full.webp?v=4482b4b14857</image>
-        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4003310/12/full.webp?v=e717b8d71e10</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4003310/13/full.webp?v=88a7be6a89ba</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4003310/14/full.webp?v=46874f8e775c</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4003310/15/full.webp?v=7f95340d0478</image>
@@ -376,10 +368,10 @@
       <year>2026</year>
       <vin>ECPVDUA22T4003575</vin>
       <price>4751010</price>
-      <sale_price>3948890</sale_price>
+      <sale_price>3826010</sale_price>
       <currency>RUR</currency>
       <owners_number>Не было владельцев</owners_number>
-      <max_benefit>802120</max_benefit>
+      <max_benefit>925000</max_benefit>
       <color>зеленый</color>
       <availability>В наличии</availability>
       <body_type>Внедорожник</body_type>
@@ -390,23 +382,19 @@
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4003575/2/full.webp?v=fd055178f8da</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4003575/3/full.webp?v=7e92af18739c</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4003575/4/full.webp?v=6781e12b27e3</image>
-        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4003575/5/full.webp?v=b4b7283a5d0a</image>
+        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4003575/5/full.webp?v=15fb68bf91c1</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4003575/6/full.webp?v=409db03f5d12</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4003575/7/full.webp?v=9cfae2ea8f04</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4003575/8/full.webp?v=874f1131e2d3</image>
-        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4003575/9/full.webp?v=a7bbf3f865ea</image>
-        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4003575/10/full.webp?v=4ccdb29c8fac</image>
+        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4003575/9/full.webp?v=1a432d9b5ce7</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4003575/11/full.webp?v=b7c7cbd029f0</image>
-        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4003575/12/full.webp?v=36213ad8b695</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4003575/13/full.webp?v=a287d9ae5b5b</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4003575/14/full.webp?v=46874f8e775c</image>
-        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4003575/15/full.webp?v=886520ad7ebe</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4003575/16/full.webp?v=4fea46de4132</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4003575/17/full.webp?v=6e9801731383</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4003575/18/full.webp?v=3ef35a2efc16</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4003575/19/full.webp?v=9011caa7a2c5</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4003575/20/full.webp?v=632a6710d228</image>
-        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4003575/21/full.webp?v=76dfde3916c8</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4003575/22/full.webp?v=b4ba02bfcc3e</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4003575/23/full.webp?v=d5f64039cf14</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4003575/24/full.webp?v=c9c45bb911d5</image>
@@ -435,10 +423,10 @@
       <year>2026</year>
       <vin>ECPVDUA22T4003589</vin>
       <price>4751010</price>
-      <sale_price>3948890</sale_price>
+      <sale_price>3826010</sale_price>
       <currency>RUR</currency>
       <owners_number>Не было владельцев</owners_number>
-      <max_benefit>802120</max_benefit>
+      <max_benefit>925000</max_benefit>
       <color>зеленый</color>
       <availability>В наличии</availability>
       <body_type>Внедорожник</body_type>
@@ -463,7 +451,7 @@
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4003589/16/full.webp?v=b7c7cbd029f0</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4003589/17/full.webp?v=a7bbf3f865ea</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4003589/18/full.webp?v=874f1131e2d3</image>
-        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4003589/19/full.webp?v=9cfae2ea8f04</image>
+        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4003589/19/full.webp?v=dd0022944e0a</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4003589/20/full.webp?v=76dfde3916c8</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4003589/21/full.webp?v=886520ad7ebe</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4003589/22/full.webp?v=4fea46de4132</image>
@@ -494,10 +482,10 @@
       <year>2026</year>
       <vin>ECPVDUA22T4005114</vin>
       <price>4602510</price>
-      <sale_price>3848890</sale_price>
+      <sale_price>3677510</sale_price>
       <currency>RUR</currency>
       <owners_number>Не было владельцев</owners_number>
-      <max_benefit>753620</max_benefit>
+      <max_benefit>925000</max_benefit>
       <color>черный</color>
       <availability>В наличии</availability>
       <body_type>Внедорожник</body_type>
@@ -507,7 +495,7 @@
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4005114/1/full.webp?v=17f081300bc3</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4005114/2/full.webp?v=f98de7e117e5</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4005114/3/full.webp?v=458c66fce393</image>
-        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4005114/4/full.webp?v=26bdc68f5d82</image>
+        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4005114/4/full.webp?v=e1051e50c3f7</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4005114/5/full.webp?v=b9179c04e2cf</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4005114/6/full.webp?v=a87edbfd1ee6</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4005114/7/full.webp?v=b1be1061b6b2</image>
@@ -553,10 +541,10 @@
       <year>2026</year>
       <vin>ECPVDUA22T4005247</vin>
       <price>4305510</price>
-      <sale_price>3548890</sale_price>
+      <sale_price>3380510</sale_price>
       <currency>RUR</currency>
       <owners_number>Не было владельцев</owners_number>
-      <max_benefit>756620</max_benefit>
+      <max_benefit>925000</max_benefit>
       <color>серый</color>
       <availability>В наличии</availability>
       <body_type>Внедорожник</body_type>
@@ -567,7 +555,7 @@
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4005247/2/full.webp?v=195c3ddaae27</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4005247/3/full.webp?v=1092e3e3cdf5</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4005247/4/full.webp?v=2b5bb015b80a</image>
-        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4005247/5/full.webp?v=03d55c69ecc5</image>
+        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4005247/5/full.webp?v=f7ba602ff939</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4005247/6/full.webp?v=b10eb3e57031</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4005247/7/full.webp?v=6977b2d1a1ac</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4005247/8/full.webp?v=9e901d32ba59</image>
@@ -603,10 +591,10 @@
       <year>2026</year>
       <vin>ECPVDUA22T4005252</vin>
       <price>4305510</price>
-      <sale_price>3548890</sale_price>
+      <sale_price>3380510</sale_price>
       <currency>RUR</currency>
       <owners_number>Не было владельцев</owners_number>
-      <max_benefit>756620</max_benefit>
+      <max_benefit>925000</max_benefit>
       <color>серый</color>
       <availability>В наличии</availability>
       <body_type>Внедорожник</body_type>
@@ -616,7 +604,7 @@
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4005252/1/full.webp?v=29dd30ade9d2</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4005252/2/full.webp?v=195c3ddaae27</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4005252/3/full.webp?v=1092e3e3cdf5</image>
-        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4005252/4/full.webp?v=2b5bb015b80a</image>
+        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4005252/4/full.webp?v=c126604dbc4a</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4005252/5/full.webp?v=03d55c69ecc5</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4005252/6/full.webp?v=b10eb3e57031</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4005252/7/full.webp?v=6977b2d1a1ac</image>
@@ -653,10 +641,10 @@
       <year>2026</year>
       <vin>ECPVDUA22T4005295</vin>
       <price>4602510</price>
-      <sale_price>3848890</sale_price>
+      <sale_price>3677510</sale_price>
       <currency>RUR</currency>
       <owners_number>Не было владельцев</owners_number>
-      <max_benefit>753620</max_benefit>
+      <max_benefit>925000</max_benefit>
       <color>серебряный</color>
       <availability>В наличии</availability>
       <body_type>Внедорожник</body_type>
@@ -712,10 +700,10 @@
       <year>2026</year>
       <vin>ECPVDUA22T4005387</vin>
       <price>4602510</price>
-      <sale_price>3848890</sale_price>
+      <sale_price>3677510</sale_price>
       <currency>RUR</currency>
       <owners_number>Не было владельцев</owners_number>
-      <max_benefit>753620</max_benefit>
+      <max_benefit>925000</max_benefit>
       <color>серебряный</color>
       <availability>В наличии</availability>
       <body_type>Внедорожник</body_type>
@@ -771,10 +759,10 @@
       <year>2026</year>
       <vin>ECPVDUA22T4005571</vin>
       <price>4602510</price>
-      <sale_price>3848890</sale_price>
+      <sale_price>3677510</sale_price>
       <currency>RUR</currency>
       <owners_number>Не было владельцев</owners_number>
-      <max_benefit>753620</max_benefit>
+      <max_benefit>925000</max_benefit>
       <color>серый</color>
       <availability>В наличии</availability>
       <body_type>Внедорожник</body_type>
@@ -784,7 +772,7 @@
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4005571/1/full.webp?v=54d1df1eeb36</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4005571/2/full.webp?v=2477b0bebec1</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4005571/3/full.webp?v=54657e1fa6c2</image>
-        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4005571/4/full.webp?v=5ab85b3902e0</image>
+        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4005571/4/full.webp?v=27409ffba3df</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4005571/5/full.webp?v=b4b7283a5d0a</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4005571/6/full.webp?v=565927cf015d</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4005571/7/full.webp?v=9cfae2ea8f04</image>
@@ -830,10 +818,10 @@
       <year>2026</year>
       <vin>ECPVDUA22T4005702</vin>
       <price>4602510</price>
-      <sale_price>3848890</sale_price>
+      <sale_price>3677510</sale_price>
       <currency>RUR</currency>
       <owners_number>Не было владельцев</owners_number>
-      <max_benefit>753620</max_benefit>
+      <max_benefit>925000</max_benefit>
       <color>серый</color>
       <availability>В наличии</availability>
       <body_type>Внедорожник</body_type>
@@ -850,7 +838,7 @@
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4005702/8/full.webp?v=f678815154c8</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4005702/9/full.webp?v=4e9179e0c3e9</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4005702/10/full.webp?v=3732f7878b17</image>
-        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4005702/11/full.webp?v=5ab85b3902e0</image>
+        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4005702/11/full.webp?v=fac5582841ba</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4005702/12/full.webp?v=565927cf015d</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4005702/13/full.webp?v=b4b7283a5d0a</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4005702/14/full.webp?v=c12b3ec24268</image>
@@ -889,10 +877,10 @@
       <year>2026</year>
       <vin>ECPVDUA22T4005888</vin>
       <price>4602510</price>
-      <sale_price>3848890</sale_price>
+      <sale_price>3677510</sale_price>
       <currency>RUR</currency>
       <owners_number>Не было владельцев</owners_number>
-      <max_benefit>753620</max_benefit>
+      <max_benefit>925000</max_benefit>
       <color>белый</color>
       <availability>В наличии</availability>
       <body_type>Внедорожник</body_type>
@@ -903,11 +891,10 @@
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4005888/2/full.webp?v=dd9d4f7b5e1b</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4005888/3/full.webp?v=25d75b03d9c5</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4005888/4/full.webp?v=05637a786305</image>
-        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4005888/5/full.webp?v=95e0a0fbd87f</image>
-        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4005888/6/full.webp?v=16d1addb0306</image>
+        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4005888/5/full.webp?v=8775d563be67</image>
+        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4005888/6/full.webp?v=ea5e4cfcbb1f</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4005888/7/full.webp?v=13a9e57c3370</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4005888/8/full.webp?v=f1d6d02a5848</image>
-        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4005888/9/full.webp?v=427cff96590e</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4005888/10/full.webp?v=adb138bd793d</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4005888/11/full.webp?v=a7dcddb1a645</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4005888/12/full.webp?v=2b8309731c25</image>
@@ -948,10 +935,10 @@
       <year>2026</year>
       <vin>ECPVDUA22T4005902</vin>
       <price>4602510</price>
-      <sale_price>3848890</sale_price>
+      <sale_price>3677510</sale_price>
       <currency>RUR</currency>
       <owners_number>Не было владельцев</owners_number>
-      <max_benefit>753620</max_benefit>
+      <max_benefit>925000</max_benefit>
       <color>серебряный</color>
       <availability>В наличии</availability>
       <body_type>Внедорожник</body_type>
@@ -962,7 +949,7 @@
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4005902/1/full.webp?v=76c45f3b8dae</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4005902/2/full.webp?v=3b7115faeec9</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4005902/3/full.webp?v=53ed7dd245a8</image>
-        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4005902/5/full.webp?v=18adf8732419</image>
+        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4005902/5/full.webp?v=6b41b34633ff</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4005902/6/full.webp?v=3c67310eb462</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4005902/7/full.webp?v=9cfae2ea8f04</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4005902/8/full.webp?v=761229d48414</image>
@@ -982,7 +969,7 @@
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4005902/22/full.webp?v=fb510ecf85b9</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4005902/23/full.webp?v=90bd4ef0b0fa</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4005902/24/full.webp?v=c9c45bb911d5</image>
-        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4005902/25/full.webp?v=38ec62dbbebf</image>
+        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4005902/25/full.webp?v=9d52a93f9988</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4005902/26/full.webp?v=e96362309c03</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4005902/27/full.webp?v=c781b09dd3a5</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4005902/28/full.webp?v=4aea013223d6</image>
@@ -1007,10 +994,10 @@
       <year>2026</year>
       <vin>ECPVDUA22T4005953</vin>
       <price>4305510</price>
-      <sale_price>3548890</sale_price>
+      <sale_price>3380510</sale_price>
       <currency>RUR</currency>
       <owners_number>Не было владельцев</owners_number>
-      <max_benefit>756620</max_benefit>
+      <max_benefit>925000</max_benefit>
       <color>серебряный</color>
       <availability>В наличии</availability>
       <body_type>Внедорожник</body_type>
@@ -1057,10 +1044,10 @@
       <year>2026</year>
       <vin>ECPVDUA22T4005977</vin>
       <price>4602510</price>
-      <sale_price>3848890</sale_price>
+      <sale_price>3677510</sale_price>
       <currency>RUR</currency>
       <owners_number>Не было владельцев</owners_number>
-      <max_benefit>753620</max_benefit>
+      <max_benefit>925000</max_benefit>
       <color>серый</color>
       <availability>В наличии</availability>
       <body_type>Внедорожник</body_type>
@@ -1116,10 +1103,10 @@
       <year>2026</year>
       <vin>ECPVDUA22T4006001</vin>
       <price>4602510</price>
-      <sale_price>3848890</sale_price>
+      <sale_price>3677510</sale_price>
       <currency>RUR</currency>
       <owners_number>Не было владельцев</owners_number>
-      <max_benefit>753620</max_benefit>
+      <max_benefit>925000</max_benefit>
       <color>серый</color>
       <availability>В наличии</availability>
       <body_type>Внедорожник</body_type>
@@ -1128,7 +1115,7 @@
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006001/0/full.webp?v=b81f23a35e21</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006001/0/full.webp?v=57fadb3f1e58</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006001/1/full.webp?v=54657e1fa6c2</image>
-        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006001/2/full.webp?v=54d1df1eeb36</image>
+        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006001/3/full.webp?v=e06dcc865291</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006001/3/full.webp?v=238d9dacbea9</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006001/5/full.webp?v=96e39da54f34</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006001/6/full.webp?v=659ae737d840</image>
@@ -1175,10 +1162,10 @@
       <year>2026</year>
       <vin>ECPVDUA22T4006102</vin>
       <price>4751010</price>
-      <sale_price>3948890</sale_price>
+      <sale_price>3826010</sale_price>
       <currency>RUR</currency>
       <owners_number>Не было владельцев</owners_number>
-      <max_benefit>802120</max_benefit>
+      <max_benefit>925000</max_benefit>
       <color>черный</color>
       <availability>В наличии</availability>
       <body_type>Внедорожник</body_type>
@@ -1197,11 +1184,11 @@
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006102/10/full.webp?v=139df86a60c4</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006102/11/full.webp?v=88eef3ffe613</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006102/12/full.webp?v=2f1da7d7689b</image>
-        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006102/13/full.webp?v=b4b7283a5d0a</image>
+        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006102/13/full.webp?v=15fb68bf91c1</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006102/14/full.webp?v=4ccdb29c8fac</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006102/15/full.webp?v=36213ad8b695</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006102/16/full.webp?v=b7c7cbd029f0</image>
-        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006102/17/full.webp?v=a7bbf3f865ea</image>
+        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006102/17/full.webp?v=1a432d9b5ce7</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006102/18/full.webp?v=830b6cea13ef</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006102/19/full.webp?v=9cfae2ea8f04</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006102/20/full.webp?v=76dfde3916c8</image>
@@ -1234,10 +1221,10 @@
       <year>2026</year>
       <vin>ECPVDUA22T4006115</vin>
       <price>4751010</price>
-      <sale_price>3948890</sale_price>
+      <sale_price>3826010</sale_price>
       <currency>RUR</currency>
       <owners_number>Не было владельцев</owners_number>
-      <max_benefit>802120</max_benefit>
+      <max_benefit>925000</max_benefit>
       <color>серый</color>
       <availability>В наличии</availability>
       <body_type>Внедорожник</body_type>
@@ -1293,10 +1280,10 @@
       <year>2026</year>
       <vin>ECPVDUA22T4006154</vin>
       <price>4751010</price>
-      <sale_price>3948890</sale_price>
+      <sale_price>3826010</sale_price>
       <currency>RUR</currency>
       <owners_number>Не было владельцев</owners_number>
-      <max_benefit>802120</max_benefit>
+      <max_benefit>925000</max_benefit>
       <color>серый</color>
       <availability>В наличии</availability>
       <body_type>Внедорожник</body_type>
@@ -1352,10 +1339,10 @@
       <year>2026</year>
       <vin>ECPVDUA22T4006327</vin>
       <price>4602510</price>
-      <sale_price>3848890</sale_price>
+      <sale_price>3677510</sale_price>
       <currency>RUR</currency>
       <owners_number>Не было владельцев</owners_number>
-      <max_benefit>753620</max_benefit>
+      <max_benefit>925000</max_benefit>
       <color>черный</color>
       <availability>В наличии</availability>
       <body_type>Внедорожник</body_type>
@@ -1374,7 +1361,7 @@
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006327/10/full.webp?v=139df86a60c4</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006327/11/full.webp?v=d88ddf52537b</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006327/12/full.webp?v=2f1da7d7689b</image>
-        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006327/13/full.webp?v=b4b7283a5d0a</image>
+        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006327/13/full.webp?v=dcf7d94e1a79</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006327/14/full.webp?v=c12b3ec24268</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006327/15/full.webp?v=e717b8d71e10</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006327/16/full.webp?v=4482b4b14857</image>
@@ -1411,10 +1398,10 @@
       <year>2026</year>
       <vin>ECPVDUA22T4006332</vin>
       <price>4602510</price>
-      <sale_price>3848890</sale_price>
+      <sale_price>3677510</sale_price>
       <currency>RUR</currency>
       <owners_number>Не было владельцев</owners_number>
-      <max_benefit>753620</max_benefit>
+      <max_benefit>925000</max_benefit>
       <color>черный</color>
       <availability>В наличии</availability>
       <body_type>Внедорожник</body_type>
@@ -1440,15 +1427,13 @@
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006332/17/full.webp?v=814e62165826</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006332/18/full.webp?v=640b5f237c74</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006332/19/full.webp?v=3e83af7f1c44</image>
-        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006332/20/full.webp?v=0ca963b8264d</image>
-        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006332/21/full.webp?v=76dfde3916c8</image>
+        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006332/20/full.webp?v=cc96c736d924</image>
+        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006332/21/full.webp?v=f39498c7d6e3</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006332/22/full.webp?v=5c8b63da3b71</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006332/23/full.webp?v=d897569150db</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006332/24/full.webp?v=c9c45bb911d5</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006332/25/full.webp?v=38ec62dbbebf</image>
-        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006332/26/full.webp?v=e13d80a3f1f3</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006332/27/full.webp?v=c781b09dd3a5</image>
-        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006332/28/full.webp?v=05966882cfa2</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006332/29/full.webp?v=6cdf8bcf3a6d</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006332/30/full.webp?v=ace3a7d5b0d7</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006332/31/full.webp?v=0d2e55483e10</image>
@@ -1470,10 +1455,10 @@
       <year>2026</year>
       <vin>ECPVDUA22T4006336</vin>
       <price>4602510</price>
-      <sale_price>3848890</sale_price>
+      <sale_price>3677510</sale_price>
       <currency>RUR</currency>
       <owners_number>Не было владельцев</owners_number>
-      <max_benefit>753620</max_benefit>
+      <max_benefit>925000</max_benefit>
       <color>серебряный</color>
       <availability>В наличии</availability>
       <body_type>Внедорожник</body_type>
@@ -1493,9 +1478,8 @@
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006336/11/full.webp?v=4482b4b14857</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006336/12/full.webp?v=e717b8d71e10</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006336/13/full.webp?v=88a7be6a89ba</image>
-        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006336/14/full.webp?v=46874f8e775c</image>
-        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006336/15/full.webp?v=7f95340d0478</image>
-        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006336/16/full.webp?v=ca9949c37976</image>
+        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006336/14/full.webp?v=bd40d0a20edb</image>
+        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006336/15/full.webp?v=953a86e191fe</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006336/17/full.webp?v=814e62165826</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006336/18/full.webp?v=2cc1e1401aed</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006336/19/full.webp?v=e07200bdca4e</image>
@@ -1504,7 +1488,6 @@
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006336/22/full.webp?v=fb510ecf85b9</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006336/23/full.webp?v=90bd4ef0b0fa</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006336/24/full.webp?v=c9c45bb911d5</image>
-        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006336/25/full.webp?v=38ec62dbbebf</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006336/26/full.webp?v=e96362309c03</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006336/27/full.webp?v=c781b09dd3a5</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006336/28/full.webp?v=4aea013223d6</image>
@@ -1529,10 +1512,10 @@
       <year>2026</year>
       <vin>ECPVDUA22T4006367</vin>
       <price>4602510</price>
-      <sale_price>3848890</sale_price>
+      <sale_price>3677510</sale_price>
       <currency>RUR</currency>
       <owners_number>Не было владельцев</owners_number>
-      <max_benefit>753620</max_benefit>
+      <max_benefit>925000</max_benefit>
       <color>серебряный</color>
       <availability>В наличии</availability>
       <body_type>Внедорожник</body_type>
@@ -1557,7 +1540,7 @@
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006367/16/full.webp?v=4482b4b14857</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006367/17/full.webp?v=a7bbf3f865ea</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006367/18/full.webp?v=761229d48414</image>
-        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006367/19/full.webp?v=9cfae2ea8f04</image>
+        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006367/19/full.webp?v=dd0022944e0a</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006367/20/full.webp?v=76dfde3916c8</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006367/21/full.webp?v=7f95340d0478</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006367/22/full.webp?v=ca9949c37976</image>
@@ -1588,10 +1571,10 @@
       <year>2026</year>
       <vin>ECPVDUA22T4006432</vin>
       <price>4602510</price>
-      <sale_price>3848890</sale_price>
+      <sale_price>3677510</sale_price>
       <currency>RUR</currency>
       <owners_number>Не было владельцев</owners_number>
-      <max_benefit>753620</max_benefit>
+      <max_benefit>925000</max_benefit>
       <color>черный</color>
       <availability>В наличии</availability>
       <body_type>Внедорожник</body_type>
@@ -1616,7 +1599,7 @@
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006432/16/full.webp?v=4482b4b14857</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006432/17/full.webp?v=a7bbf3f865ea</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006432/18/full.webp?v=830b6cea13ef</image>
-        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006432/19/full.webp?v=9cfae2ea8f04</image>
+        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006432/19/full.webp?v=dd0022944e0a</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006432/20/full.webp?v=76dfde3916c8</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006432/21/full.webp?v=7f95340d0478</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006432/22/full.webp?v=ca9949c37976</image>
@@ -1647,10 +1630,10 @@
       <year>2026</year>
       <vin>ECPVDUA22T4006458</vin>
       <price>4602510</price>
-      <sale_price>3848890</sale_price>
+      <sale_price>3677510</sale_price>
       <currency>RUR</currency>
       <owners_number>Не было владельцев</owners_number>
-      <max_benefit>753620</max_benefit>
+      <max_benefit>925000</max_benefit>
       <color>черный</color>
       <availability>В наличии</availability>
       <body_type>Внедорожник</body_type>
@@ -1706,10 +1689,10 @@
       <year>2026</year>
       <vin>ECPVDUA22T4006562</vin>
       <price>4602510</price>
-      <sale_price>3848890</sale_price>
+      <sale_price>3677510</sale_price>
       <currency>RUR</currency>
       <owners_number>Не было владельцев</owners_number>
-      <max_benefit>753620</max_benefit>
+      <max_benefit>925000</max_benefit>
       <color>белый</color>
       <availability>В наличии</availability>
       <body_type>Внедорожник</body_type>
@@ -1765,10 +1748,10 @@
       <year>2026</year>
       <vin>ECPVDUA22T4006594</vin>
       <price>4751010</price>
-      <sale_price>3948890</sale_price>
+      <sale_price>3826010</sale_price>
       <currency>RUR</currency>
       <owners_number>Не было владельцев</owners_number>
-      <max_benefit>802120</max_benefit>
+      <max_benefit>925000</max_benefit>
       <color>черный</color>
       <availability>В наличии</availability>
       <body_type>Внедорожник</body_type>
@@ -1824,25 +1807,18 @@
       <year>2026</year>
       <vin>ECPVDUA22T4006635</vin>
       <price>4751010</price>
-      <sale_price>3948890</sale_price>
+      <sale_price>3826010</sale_price>
       <currency>RUR</currency>
       <owners_number>Не было владельцев</owners_number>
-      <max_benefit>802120</max_benefit>
+      <max_benefit>925000</max_benefit>
       <color>зеленый</color>
       <availability>В наличии</availability>
       <body_type>Внедорожник</body_type>
       <description>Автомобиль Volga K50, Эксклюзив, 2.0T 4WD AT (238 л.с.), 2026 г., зеленый</description>
       <images>
-        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006635/0/full.webp?v=b74385e81e20</image>
+        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006635/0/full.webp?v=8b7cf00d9bbe</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006635/1/full.webp?v=e29ead0111f9</image>
-        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006635/2/full.webp?v=fd055178f8da</image>
-        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006635/3/full.webp?v=7e92af18739c</image>
-        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006635/4/full.webp?v=6781e12b27e3</image>
-        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006635/5/full.webp?v=b4b7283a5d0a</image>
-        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006635/6/full.webp?v=409db03f5d12</image>
-        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006635/7/full.webp?v=9cfae2ea8f04</image>
-        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006635/8/full.webp?v=874f1131e2d3</image>
-        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006635/9/full.webp?v=a7bbf3f865ea</image>
+        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006635/2/full.webp?v=5a2f8c231435</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006635/10/full.webp?v=4ccdb29c8fac</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006635/11/full.webp?v=b7c7cbd029f0</image>
       </images>
@@ -1855,25 +1831,22 @@
       <year>2026</year>
       <vin>ECPVDUA22T4006644</vin>
       <price>4751010</price>
-      <sale_price>3948890</sale_price>
+      <sale_price>3826010</sale_price>
       <currency>RUR</currency>
       <owners_number>Не было владельцев</owners_number>
-      <max_benefit>802120</max_benefit>
+      <max_benefit>925000</max_benefit>
       <color>зеленый</color>
       <availability>В наличии</availability>
       <body_type>Внедорожник</body_type>
       <description>Автомобиль Volga K50, Эксклюзив, 2.0T 4WD AT (238 л.с.), 2026 г., зеленый</description>
       <images>
-        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006644/0/full.webp?v=b74385e81e20</image>
-        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006644/1/full.webp?v=e29ead0111f9</image>
+        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006644/0/full.webp?v=8b7cf00d9bbe</image>
+        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006644/1/full.webp?v=70d389e0abc9</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006644/2/full.webp?v=fd055178f8da</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006644/3/full.webp?v=7e92af18739c</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006644/4/full.webp?v=6781e12b27e3</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006644/5/full.webp?v=b4b7283a5d0a</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006644/6/full.webp?v=409db03f5d12</image>
-        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006644/7/full.webp?v=9cfae2ea8f04</image>
-        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006644/8/full.webp?v=874f1131e2d3</image>
-        <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006644/9/full.webp?v=a7bbf3f865ea</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006644/10/full.webp?v=4ccdb29c8fac</image>
         <image>https://img.upspace.ru/cars/sale.volga-ton-auto.ru/new/ECPVDUA22T4006644/11/full.webp?v=b7c7cbd029f0</image>
       </images>
